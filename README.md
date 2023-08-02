@@ -9,15 +9,15 @@ src="https://media.giphy.com/media/fZdzEHC8sMC0E/giphy.gif">
 
 - 🔭 I’m currently working on **linkoil**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on [OOP in Java](https://silabu.page.link/29dp
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **front-end**
 
 - 📫 How to reach me **aboudsabry19@gmail.com**
 
-- ⚡ Fun fact **Most people fall asleep in seven minutes**
+- ⚡ Fun fact **i thought front-end was easier then back-end**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satorukage" alt="satorukage" /></a> </p>
 

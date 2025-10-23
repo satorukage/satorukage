@@ -7,11 +7,9 @@ src="https://media.giphy.com/media/fZdzEHC8sMC0E/giphy.gif">
 <p align="left"> <a href="https://twitter.com/aboudsabry" target="blank"><img src="https://img.shields.io/twitter/follow/aboudsabry?logo=twitter&style=for-the-badge" alt="aboudsabry" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satorukage&label=Profile%20views&color=0e75b6&style=flat" alt="satorukage" /> </p>
 
-- 🔭 I’m currently working on **linkoil**
+- 🔭 I’m currently working on **Ai Projects**
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 👯 I’m looking to collaborate on [OOP in Java](https://silabu.page.link/29dp
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **front-end**
 

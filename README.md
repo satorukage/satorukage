@@ -7,13 +7,13 @@ src="https://media.giphy.com/media/fZdzEHC8sMC0E/giphy.gif">
 <p align="left"> <a href="https://twitter.com/aboudsabry" target="blank"><img src="https://img.shields.io/twitter/follow/aboudsabry?logo=twitter&style=for-the-badge" alt="aboudsabry" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satorukage&label=Profile%20views&color=0e75b6&style=flat" alt="satorukage" /> </p>
 
-- 🔭 I’m currently working on **Ai Projects**
+- 🔭 I’m currently working on **Web scrapping Projects**
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **front-end**
+- 💬 Ask me about **Python**
 
-- 📫 How to reach me **aboudsabry19@gmail.com**
+- 📫 How to reach me ** **
 
 - ⚡ Fun fact **i thought front-end was easier then back-end**
 
